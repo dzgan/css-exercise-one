@@ -1,0 +1,54 @@
+/* My assignment */
+
+body{
+  background color: red;
+  font-size: 14px;
+}
+
+nav {
+  background color: pink;
+  height: 100px;
+  margin-top: -10px;
+  position: fixed;
+  width: 100%;
+}
+
+section {
+  margin: 0 auto;
+  width: 60%;
+}
+
+h1 {
+  font-family: sans-serif;
+  font-size: 2em;
+}
+
+.example, h3 {
+  padding-top: 30px;
+  text-align: center;
+}
+
+h3 {
+  font-size: 1.3em;
+}
+
+/* elements */
+
+.element1 {
+  background-color: #910;
+  height: 100px;
+  margin: 10px;
+  width: 100%;
+}
+.element2 {
+  background-color: #320;
+  height: 100px;
+  margin: 10px;
+  width: 100%;
+}
+.element3 {
+  background-color: #040;
+  height: 100px;
+  margin: 10px;
+  width: 100%;
+}
