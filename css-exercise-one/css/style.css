@@ -1,12 +1,12 @@
 /* My assignment */
 
 body{
-  background color: red;
+  background-color: #fff9;
   font-size: 14px;
 }
 
 nav {
-  background color: pink;
+  background-color: #ff9;
   height: 100px;
   margin-top: -10px;
   position: fixed;
@@ -34,20 +34,26 @@ h3 {
 
 /* elements */
 
-.element1 {
-  background-color: #910;
+.element1through6 {
   height: 100px;
   margin: 10px;
   width: 100%;
 }
-.element2 {
-  background-color: #320;
+
+.element9 {
+  background-color: #CBECFB;
   height: 100px;
   margin: 10px;
   width: 100%;
 }
-.element3 {
-  background-color: #040;
+.element8 {
+  background-color: #E5FFEB;
+  height: 100px;
+  margin: 10px;
+  width: 100%;
+}
+.element7 {
+  background-color: #f998;
   height: 100px;
   margin: 10px;
   width: 100%;
