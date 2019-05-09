@@ -34,17 +34,16 @@ h3 {
 
 /* elements */
 
-.element1through6 {
+.element {
+  background-color: green;
   height: 100px;
   margin: 10px;
   width: 100%;
 }
 
-.element9 {
+.color {
   background-color: #CBECFB;
-  height: 100px;
-  margin: 10px;
-  width: 100%;
+
 }
 .element8 {
   background-color: #E5FFEB;
